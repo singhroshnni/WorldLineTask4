@@ -16,6 +16,7 @@ Ensure you have the following software installed:
 - `Features/Login.feature`: Cucumber feature file defining scenarios for login testing.
 - `Features/Login.java`: Step definitions for the login feature.
 - `Task4/ExcelReader.java`: Utility class for reading data from an Excel sheet.
+- `loginData.xlsx`: Excel worksheet at 'src/resource' containig login credentials data. 
 
 ## Configuration
 Make sure to update the pom.xml file with the appropriate dependencies.
